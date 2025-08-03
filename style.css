@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+}
+.hero-image{
+    background-image: url(image/A08CC74A-FA84-4C30-B674-45BF01AD96DC.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 350px;
+}
+.hero_text{
+    color: rgb(172, 186, 213);
+    background: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    text-align: center;
+    top: 100px;
+    width: 100%;
+    font-size: 5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
